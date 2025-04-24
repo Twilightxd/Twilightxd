@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Ranjan</h1>
-<h3 align="center">Exploring the world of DevOps as a fresher</h3>
+<h3 align="center">Exploring the World of DevOps as a fresher</h3>
 
 Hello World! <br>
 Welcome to <b>Twilight's Zone!</b>
@@ -11,7 +11,7 @@ Welcome to my GitHub profile — a playground of code, creativity, and career-bu
 
 ## 🚧 What I'm Working On
 - Learning and building in **DevOps**: Python, Docker, Kubernetes, Terraform, and CI/CD pipelines
-- studying computer science at <i>GIET University</i>
+- Studying computer science at <i>GIET University</i>
 - Designing cool stuff with **Canva**
 - Creating content for my **gaming YouTube channel** at <i>TwilightXD</i>
 - Leveling up my GitHub with quality repos
@@ -26,8 +26,10 @@ Welcome to my GitHub profile — a playground of code, creativity, and career-bu
 
 ---
 
-## 📈 GitHub Stats  
-![Twilightxd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Twilightxd&show_icons=true&theme=radical)
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=Twilightxd&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Twilightxd&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twilightxd&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
@@ -37,4 +39,3 @@ When I’m not wrangling containers, I’m out here trying to *git gud* at Souls
 ---
 
 > “Code like nobody’s watching. Because they’re not. Yet.”
-
