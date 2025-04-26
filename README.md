@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manas Ranjan</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/64174995/139855608-7ac5f1a6-62ee-4b85-b990-1d7eed65ffda.gif" width="40px" height ="40px"/>, I'm Manas Ranjan</h1>
 <h3 align="center">DevOps Enthusiast | Gamer by Night | Designer in Sight</h3>
 
 <p align="center"><i>Welcome to Twilight's Zone — a playground of code, creativity, and career-building chaos.</i></p>
