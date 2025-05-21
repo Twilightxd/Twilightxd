@@ -9,7 +9,7 @@
 </p>
 
 ##  Currently Building
--  Exploring DevOps tools: **Python**, **Docker**, **Kubernetes**, **Terraform**, **Jenkins**
+-  Exploring DevOps tools: **Bash**, **Docker**, **Kubernetes**, **Terraform**, **Jenkins**
 -  CSE Student @ **GIET University**
 -  Designing with **Canva**
 -  Creating gaming content at [TwilightXD](http://www.youtube.com/@iTwili8)
